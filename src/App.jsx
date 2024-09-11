@@ -7,6 +7,7 @@ import Projects from "./pages/Projects";
 import Services from "./pages/Services";
 import Pricing from "./pages/Pricing";
 import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 
 import "./App.css";
 
